@@ -1,7 +1,5 @@
 # Taxation
 
-Sujet: <https://github.com/crouyre/taxation/enonce.pdf>
-
 ### Introduction
 Le but est de mettre en place un programme qui calcule son imposition en fonction de différentes tranches.
 
